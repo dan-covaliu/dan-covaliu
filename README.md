@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @d𝕯𝖆𝖓-𝕮𝖔𝖛𝖆𝖑𝖎𝖚
+- 👋 Hi, I’m @𝕯𝖆𝖓-𝕮𝖔𝖛𝖆𝖑𝖎𝖚
 
 <!---
 dan-covaliu/dan-covaliu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
